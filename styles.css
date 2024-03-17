@@ -1,0 +1,22 @@
+:root {
+    --primary-text-background-color: #000;
+    --secondary-text-background-color: #fff;
+    --primary-title-background-color: #dbf6fe;
+    --secondary-title-background-color:#62a6be;
+}
+.container {
+    min-width: 390px;
+ 
+
+}
+
+.main-photo{
+    top: 0;
+    left: 0;
+    width: 480px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+   
+}
+

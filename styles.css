@@ -4,11 +4,6 @@
     --primary-title-background-color: #dbf6fe;
     --secondary-title-background-color:#62a6be;
 }
-body{
-    width: 390px;
-}
-
-
 
 .container {
 min-width: 390px;
@@ -31,11 +26,39 @@ height: auto;
    
 }
 .second-page{
-    background-color:#ffecd4 ;
-    height: 800px;
+        background-image: url(images/page2.jpg);
+        height: 800px; 
 }
-.flowerimg{
-    position: absolute;
-    margin-top: 10px;
+.datetext{
+    font-family: "Rouge Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        margin-top: 77px;
+        font-size: 30px;
+}
+.secondpage-title{
+        font-family: "Rouge Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        padding-top: 153px;
+        margin-top: -1px;
+        font-size: 65px;
+        
+}
+.secondtext{
+    margin-top: 53px;
+    text-align: center;
+    font-family: "Scada", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 21px;
+        padding-right: 15px;
+        padding-left: 15px;
+}
+.calendar{
+    margin-left:53px;
+    margin-top: 30px;
 }
 

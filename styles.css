@@ -6,16 +6,29 @@
 }
 .container {
 min-width: 390px;
- 
-
+}
+.main-title{
+        position: absolute;
+        font-family: "Rouge Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 80px;
+        line-height: 62px;
+        color: #ffecd4;
+        margin-top: 520px;
+        margin-left: 27px;
 }
 .main-photo{
 left: 0;
 max-width: 480px;
    
-
-   
-
-   
+}
+.second-page{
+    background-color:#ffecd4 ;
+    height: 800px;
+}
+.flowerimg{
+    position: absolute;
+    margin-top: 10px;
 }
 

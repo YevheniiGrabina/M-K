@@ -4,6 +4,12 @@
     --primary-title-background-color: #dbf6fe;
     --secondary-title-background-color:#62a6be;
 }
+body{
+    width: 390px;
+}
+
+
+
 .container {
 min-width: 390px;
 }
@@ -15,12 +21,13 @@ min-width: 390px;
         font-size: 80px;
         line-height: 62px;
         color: #ffecd4;
-        margin-top: 520px;
+        margin-top: 460px;
         margin-left: 27px;
 }
 .main-photo{
 left: 0;
-max-width: 480px;
+max-width: 400px;
+height: auto;
    
 }
 .second-page{

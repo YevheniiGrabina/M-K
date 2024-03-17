@@ -5,12 +5,12 @@
     --secondary-title-background-color:#62a6be;
 }
 .container {
-    min-width: 390px;
+min-width: 390px;
  
 
 }
 .main-photo{
-   
+left: 0;
 max-width: 480px;
    
 

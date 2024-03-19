@@ -6,7 +6,8 @@
 }
 
 .container {
-min-width: 390px;
+width: 100%;
+margin-left: -8px;
 }
 .main-title{
         position: absolute;
@@ -16,12 +17,12 @@ min-width: 390px;
         font-size: 80px;
         line-height: 62px;
         color: #ffecd4;
-        margin-top: 520px;
+        margin-top: 448px;
         margin-left: 27px;
 }
 .main-photo{
 left: 0;
-max-width: 480px;
+max-width: 390px;
 margin-top: -1;
 
    
@@ -29,6 +30,8 @@ margin-top: -1;
 .second-page{
         background-image: url(images/page2.jpg);
         height: 800px; 
+        left: 0;
+        min-width: 390px;
 }
 .datetext{
     font-family: "Rouge Script", cursive;
@@ -65,4 +68,5 @@ margin-top: -1;
 .thrpage{
     background-image: url(images/page3.jpg);
         height: 800px;
+        min-width: 390px;
 }

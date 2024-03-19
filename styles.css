@@ -26,11 +26,10 @@ width: 100%;
         color: #ffecd4;
         margin-top: 448px;
         margin-left: 27px;
+        display: inline-block;
 }
 .main-photo{
 width: 100%;
-
-   
 }
 .second-page{
         background-image: url(images/page2.jpg);
@@ -138,4 +137,53 @@ width: 100%;
         font-weight: 400;
         font-style: normal;
         font-size: 22px;
+}
+.pagefive{
+    background-image: url(images/page5.jpg);
+        height: 800px;
+        width: 100%;
+}
+.pagefivetext{
+    font-family: "Forum", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 22px;
+        padding-top: 125px;
+        padding-right: 30px;
+        padding-left: 30px;
+        text-align: center;
+}
+.timer{
+        position: absolute;
+        font-family: "Aire Bold Pro";
+        font-weight: 400;
+        font-style: normal;
+        font-size: 47px;
+        color: rgb(255, 255, 255);
+        margin-top: 340px;
+        margin-left: 30px;
+}
+.tgpage{
+    background-image: url(images/page3.jpg);
+        height: 800px;
+        width: 100%;
+}
+.messanger__text{
+    font-family: "Forum", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 24px;
+        text-align: center;
+        padding-top: 450px;
+}
+.tgbtn{
+    margin-top: 70px;
+    margin-left: 87px;
+    
+}
+.circle{
+    position: absolute;
+    width: 180px;
+    padding-top: 200px;
+    margin-left: 105px;
 }
